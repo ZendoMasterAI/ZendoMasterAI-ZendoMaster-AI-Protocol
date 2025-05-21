@@ -36,9 +36,9 @@ ZendoMaster AI is a decentralized protocol leveraging machine learning to empowe
 ## Security
 - Official $ZENDO address: Published on **zendomaster.ai**.  
 - Audits: Scheduled Q3 2025 with [TBD audit firm].  
-- Report scams to **ai.zen@zendomaster.ai**.
+- Report scams to **support@zendomaster.ai**.
 
 ## Contribute
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Join the **AI Zen Network** on [X (@ZendoAIProtocol)](https://x.com/ZendoAIProtocol) and [Telegram (t.me/ZendoAIProtocol)](https://t.me/ZendoAIProtocol).
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. Join the **AI Zen Network** on [X (@ZendoMasterAI)](https://x.com/ZendoMasterAI) and [Telegram (t.me/ZendoMasterAI)](https://t.me/ZendoMasterAI).
 
 **Trademark**: ZendoMaster AI™ is a registered trademark. Unauthorized use is prohibited.
