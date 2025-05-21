@@ -34,7 +34,7 @@ ZendoMaster AI is a decentralized protocol leveraging machine learning to empowe
 - **Q1 2026**: Full production, CEX listings, advanced ML integrations.
 
 ## Security
-- Official $ZENDO address: Published on **zendomaster.com**.  
+- Official $ZENDO address: Published on **zendomaster.ai**.  
 - Audits: Scheduled Q3 2025 with [TBD audit firm].  
 - Report scams to **ai.zen@zendomaster.ai**.
 
